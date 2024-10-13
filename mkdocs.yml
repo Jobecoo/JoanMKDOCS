@@ -1,0 +1,22 @@
+site_name: IMPLANTACIÓ DE SISTEMES OPERATIUS
+theme:
+  name: material
+  custom_dir: docs/custom
+  features:
+    - navigation.top
+    - content.tabs.link
+    - content.code.copy
+    - content.code.download
+
+nav:
+  - Sprint 1:
+    - Llicències.md
+    - instalacio.md
+    - puntsrestauracio.md
+    - conf.md
+    - program.md
+
+
+markdown_extensions:
+  - def_list
+  - attr_list
